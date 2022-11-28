@@ -1,11 +1,14 @@
 .maindiv{
     border: 2px solid black;
-    /* text-align: center; */
+    
     width: 600px;
     height: 400px;
     margin: auto ;
     padding: 10px;
     border-radius: 10px;
+    background-color: rgb(194, 245, 245);
+    position: relative;
+    top: 100px;
     
 
 }
